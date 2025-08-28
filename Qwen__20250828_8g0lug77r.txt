@@ -1,10 +1,1 @@
-portfolio-mukhriddin/
-│
-├── index.html        ← Asosiy veb-sahifa
-├── style.css         ← Dizayn (CSS)
-├── script.js         ← JavaScript (smooth scroll)
-├── images/           ← Rasm fayllar uchun (sizning rasmingiz, loyihalar)
-│   ├── profile.jpg
-│   ├── project1.jpg
-│   └── project2.jpg
-└── README.md         ← Siz haqingizda qisqacha (ixtiyoriy)
+
